@@ -23,8 +23,10 @@ RegisterNumber:
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
 
+![image](https://user-images.githubusercontent.com/93427201/174129504-ba32160c-41fc-41a9-ae3c-3251673d6da9.png)
+
+![image](https://user-images.githubusercontent.com/93427201/174129527-75faf830-acc6-4607-a6f3-06dcbb931a12.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
